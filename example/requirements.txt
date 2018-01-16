@@ -1,0 +1,4 @@
+# Requirements test project
+Django==2.0.1
+celery==4.1.0
+-e git+https://gitlab.catamarca.gob.ar/debianitram/simple-twitter-scraper.git#egg=twitter_scraper
